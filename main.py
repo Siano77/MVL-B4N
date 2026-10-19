@@ -30,11 +30,6 @@ PHONE_NUMBER_ID = "669101662914614"
 TELEGRAM_TOKEN = "8596213218:AAEKSLhh9KBXGP5GNhXqskqSZY0xZx43tdw"
 OWNER_ID = 8624071253                                                
 
-# 5 ғᴏʀᴄᴇ ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟs
-FORCE_JOIN_CHANNELS = [
-    {"name": "SHADOW CHANNEL", "id": "@ssbugchannel", "url": "https://t.me/ssbugchannel"},
-]
-
 # ᴇᴍᴀɪʟ ʟɪsᴛs (ᴋᴇᴇᴘ ᴀᴘᴘᴇᴀʟs ɴᴏʀᴍᴀʟ)
 UNBAN_EMAILS = [
     "support@support.whatsapp.com",
