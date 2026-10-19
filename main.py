@@ -32,7 +32,6 @@ OWNER_ID = 8624071253
 
 # 5 ғᴏʀᴄᴇ ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟs
 FORCE_JOIN_CHANNELS = [
-    {"name": "SYED BANNING GROUP", "id": "@syedxshadowbanninggroup", "url": "https://t.me/+iTSanewdYsU5N2Q0"},
     {"name": "SHADOW CHANNEL", "id": "@ssbugchannel", "url": "https://t.me/ssbugchannel"},
 ]
 
